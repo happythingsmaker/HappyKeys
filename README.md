@@ -1,5 +1,4 @@
-#
-Macro Key : HappyKeys
+# Macro Key : HappyKeys
 
 ## materials
 
@@ -97,7 +96,7 @@ Macro Key : HappyKeys
 
 > Because the library from Digispark is not enough to use. The main issue is we can’t send a keyboard signal and a mouse signal at the same time. Sending only keyboard or mouse signal is good enough for general situation. But sometimes, we need to use both keyboard and mouse together such as gaming situation.
 
-    - ![](/img/9.jpg)
+- ![](/img/9.jpg)
 
 3. Unzip the file
 
@@ -131,17 +130,17 @@ Macro Key : HappyKeys
 2. Game macro example
 > My favorite game is starcraft. I am not good at macro control. For particular, manufacturing labor unit \(SCV, Prove or Drone\) or military unit such as tanks, marines. I made a macro key for this purpose. \(note: only for single play\)
 
-    * [Produce labor unit](https://github.com/happythingsmaker/HappyKeys/blob/master/HappyKeyStarcraftLabor/HappyKeyStarcraftLabor.ino)
-        - ![](/img/oneKeyProducingSVC.gif)
+* [Produce labor unit](https://github.com/happythingsmaker/HappyKeys/blob/master/HappyKeyStarcraftLabor/HappyKeyStarcraftLabor.ino)
+    - ![](/img/oneKeyProducingSVC.gif)
 
 
-    * [Produce units from manufacture building](https://github.com/happythingsmaker/HappyKeys/tree/master/HappyKeyStarcraftManufacture)
-        - ![](/img/oneKeyProducingTank2.gif)
+* [Produce units from manufacture building](https://github.com/happythingsmaker/HappyKeys/tree/master/HappyKeyStarcraftManufacture)
+    - ![](/img/oneKeyProducingTank2.gif)
 
-    * [Typing “cheat keys”](https://github.com/happythingsmaker/HappyKeys/blob/master/HappyKeyStarcraftCheatkey/HappyKeyStarcraftCheatkey.ino)
-    “Show me the money”, “black sheep wall”, etc …
+* [Typing “cheat keys”](https://github.com/happythingsmaker/HappyKeys/blob/master/HappyKeyStarcraftCheatkey/HappyKeyStarcraftCheatkey.ino)
+“Show me the money”, “black sheep wall”, etc …
 
-        - ![](/img/oneKeyAutoCheatkey.gif)
+    - ![](/img/oneKeyAutoCheatkey.gif)
 
 
 3. Letter example
