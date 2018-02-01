@@ -1,36 +1,36 @@
 #
-**Macro Key : HappyKeys**
+Macro Key : HappyKeys
 
 ## materials
 
 ------------------------------------ Parts ---------------------------------
 
-Finished Product [https://www.etsy.com/people/xhjkunl8?ref=hdr\_user\_menu](https://www.etsy.com/people/xhjkunl8?ref=hdr_user_menu)
-Material Kit [https://www.etsy.com/people/xhjkunl8?ref=hdr\_user\_menu](https://www.etsy.com/people/xhjkunl8?ref=hdr_user_menu)
-Cherry Key Switch [http://amzn.to/2BEygaX](http://amzn.to/2BEygaX)
-Attiny85 [http://amzn.to/2FvhOw6](http://amzn.to/2FvhOw6)
-Keycap [http://amzn.to/2DO1ydg](http://amzn.to/2DO1ydg)
-Micro USB cable [http://amzn.to/2Enrycm](http://amzn.to/2Enrycm)
+- Finished Product [https://www.etsy.com/people/xhjkunl8?ref=hdr\_user\_menu](https://www.etsy.com/people/xhjkunl8?ref=hdr_user_menu)
+- Material Kit [https://www.etsy.com/people/xhjkunl8?ref=hdr\_user\_menu](https://www.etsy.com/people/xhjkunl8?ref=hdr_user_menu)
+- Cherry Key Switch [http://amzn.to/2BEygaX](http://amzn.to/2BEygaX)
+- Attiny85 [http://amzn.to/2FvhOw6](http://amzn.to/2FvhOw6)
+- Keycap [http://amzn.to/2DO1ydg](http://amzn.to/2DO1ydg)
+- Micro USB cable [http://amzn.to/2Enrycm](http://amzn.to/2Enrycm)
 
 ------------------------------------ Tools ---------------------------------
 
-Filament for 3d print \(PLA 1.75mm\) [http://amzn.to/2DhxPpo](http://amzn.to/2DhxPpo)
-Hot melt glue gun [http://amzn.to/2CMf8cE](http://amzn.to/2CMf8cE)
-3D printer \(P802MA\) [http://amzn.to/2CWuVZE](http://amzn.to/2CWuVZE)
-Soldering Iron Kit [http://amzn.to/2Gv8UA3](http://amzn.to/2Gv8UA3)
+- Filament for 3d print \(PLA 1.75mm\) [http://amzn.to/2DhxPpo](http://amzn.to/2DhxPpo)
+- Hot melt glue gun [http://amzn.to/2CMf8cE](http://amzn.to/2CMf8cE)
+- 3D printer \(P802MA\) [http://amzn.to/2CWuVZE](http://amzn.to/2CWuVZE)
+- Soldering Iron Kit [http://amzn.to/2Gv8UA3](http://amzn.to/2Gv8UA3)
 
 ------------------------------------ Instruction --------------------------
 
-3D model file \(for 3d printer\) [https://www.thingiverse.com/thing:2777861](https://www.thingiverse.com/thing:2777861)
-Youtube
-Manual [https://github.com/happythingsmaker/HappyKeys/blob/master/README.md](https://github.com/happythingsmaker/HappyKeys/blob/master/README.md)
-Schematic [https://github.com/happythingsmaker/HappyKeys/blob/master/documents/img/circuit.jpg](https://github.com/happythingsmaker/HappyKeys/blob/master/documents/img/circuit.jpg)
+- 3D model file \(for 3d printer\) [https://www.thingiverse.com/thing:2777861](https://www.thingiverse.com/thing:2777861)
+- Youtube
+- Manual [https://github.com/happythingsmaker/HappyKeys/blob/master/README.md](https://github.com/happythingsmaker/HappyKeys/blob/master/README.md)
+- Schematic [https://github.com/happythingsmaker/HappyKeys/blob/master/documents/img/circuit.jpg](https://github.com/happythingsmaker/HappyKeys/blob/master/documents/img/circuit.jpg)
 
 ------------------------------------ About Maker ---------------------------------
 
-Instagram: [https://www.instagram.com/happythingsmaker/](https://www.instagram.com/happythingsmaker/)
-Facebook: [https://www.facebook.com/happyThingsMaker/](https://www.facebook.com/happyThingsMaker/)
-Blog : [http://happyThingsMaker.com/](http://happyThingsMaker.com/)
+- Instagram: [https://www.instagram.com/happythingsmaker/](https://www.instagram.com/happythingsmaker/)
+- Facebook: [https://www.facebook.com/happyThingsMaker/](https://www.facebook.com/happyThingsMaker/)
+- Blog : [http://happyThingsMaker.com/](http://happyThingsMaker.com/)
 
 ---
 
@@ -66,23 +66,23 @@ Blog : [http://happyThingsMaker.com/](http://happyThingsMaker.com/)
 ### 4. Assembling
 
 1. Put a switch into upper case
-![](/img/2.jpg)
+- ![](/img/2.jpg)
 
 2. Put an Attiny85 board in the upper case
-![](/img/3.jpg)
+- ![](/img/3.jpg)
 
 3. Bend legs of switch toward the Attiny85 board
-![](/img/4.jpg)
+- ![](/img/4.jpg)
 
 4. Soldering
-![](/img/5.jpg)
+- ![](/img/5.jpg)
 
 5. Cover it
-![](/img/6.jpg)
+- ![](/img/6.jpg)
 
 6. Use your favorite keycap
-![](/img/7.jpg)
-![](/img/8.jpg)
+- ![](/img/7.jpg)
+- ![](/img/8.jpg)
 
 ## Programming
 
@@ -97,12 +97,12 @@ Blog : [http://happyThingsMaker.com/](http://happyThingsMaker.com/)
 
 > Because the library from Digispark is not enough to use. The main issue is we can’t send a keyboard signal and a mouse signal at the same time. Sending only keyboard or mouse signal is good enough for general situation. But sometimes, we need to use both keyboard and mouse together such as gaming situation.
 
-![](/img/9.jpg)
+- ![](/img/9.jpg)
 
 3. Unzip the file
 
 4. Copy “TrinketHidCombo” folder into your arduino library folder
-![](/img/10.jpg)
+- ![](/img/10.jpg)
 
 5. Open your Arduino IDE, copy and paste here's code
 \*[https://github.com/happythingsmaker/HappyKeys](https://github.com/happythingsmaker/HappyKeys)
@@ -120,7 +120,7 @@ Blog : [http://happyThingsMaker.com/](http://happyThingsMaker.com/)
 
 1. Emergency
 
-![](/img/onekeyclose.gif)
+- ![](/img/onekeyclose.gif)
 
 * MUTE and CLOSE a video player immediately just in case \(Emergency Exit\)
 
@@ -133,22 +133,22 @@ Blog : [http://happyThingsMaker.com/](http://happyThingsMaker.com/)
 > My favorite game is starcraft. I am not good at macro control. For particular, manufacturing labor unit \(SCV, Prove or Drone\) or military unit such as tanks, marines. I made a macro key for this purpose. \(note: only for single play\)
 
 * [Produce labor unit](https://github.com/happythingsmaker/HappyKeys/blob/master/HappyKeyStarcraftLabor/HappyKeyStarcraftLabor.ino)
-![](/img/oneKeyProducingSVC.gif)
+- ![](/img/oneKeyProducingSVC.gif)
 
 
 * [Produce units from manufacture building](https://github.com/happythingsmaker/HappyKeys/tree/master/HappyKeyStarcraftManufacture)
-![](/img/oneKeyProducingTank2.gif)
+- ![](/img/oneKeyProducingTank2.gif)
 
 * [Typing “cheat keys”](https://github.com/happythingsmaker/HappyKeys/blob/master/HappyKeyStarcraftCheatkey/HappyKeyStarcraftCheatkey.ino)
 “Show me the money”, “black sheep wall”, etc …
 
-![](/img/oneKeyAutoCheatkey.gif)
+- ![](/img/oneKeyAutoCheatkey.gif)
 
 
 3. Letter example
 
 * [Love letter](https://github.com/happythingsmaker/HappyKeys/blob/master/HappyKeyLoveLetter/HappyKeyLoveLetter.ino)
-![](/img/oneKeyLoveLetter.gif)
+- ![](/img/oneKeyLoveLetter.gif)
 
 
 4. Shortcut key
