@@ -43,9 +43,9 @@ Macro Key : HappyKeys
 ### 1. 3D Printing using 3d Modeling file
 
 * Download 3d model file from Thinggiverse
-* [https://www.thingiverse.com/thing:2777861](https://www.thingiverse.com/thing:2777861)
+- [https://www.thingiverse.com/thing:2777861](https://www.thingiverse.com/thing:2777861)
 * Printing
-* \(Alternative: Buy from ETSY from the author\)
+- \(Alternative: Buy from ETSY from the author\)
 
 ### 2. Buying some parts
 
