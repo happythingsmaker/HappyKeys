@@ -1,5 +1,7 @@
 # Macro Key : HappyKeys
 
+Youtube instruction : [Click here](https://youtu.be/Y8Oh4aj96gU)
+
 ## materials
 
 ------------------------------------ Parts ---------------------------------
@@ -10,8 +12,7 @@
 - Keycap [http://amzn.to/2DO1ydg](http://amzn.to/2DO1ydg)
 - Micro USB cable [http://amzn.to/2Enrycm](http://amzn.to/2Enrycm)
 - Finished Product(soon) [https://www.etsy.com/people/xhjkunl8?ref=hdr\_user\_menu](https://www.etsy.com/people/xhjkunl8?ref=hdr_user_menu)
-- Material Kit(soon)
--  [https://www.etsy.com/people/xhjkunl8?ref=hdr\_user\_menu](https://www.etsy.com/people/xhjkunl8?ref=hdr_user_menu)
+- Material Kit(soon) [https://www.etsy.com/people/xhjkunl8?ref=hdr\_user\_menu](https://www.etsy.com/people/xhjkunl8?ref=hdr_user_menu)
 
 ------------------------------------ Tools ---------------------------------
 
@@ -23,7 +24,7 @@
 ------------------------------------ Instruction --------------------------
 
 - 3D model file \(for 3d printer\) [https://www.thingiverse.com/thing:2777861](https://www.thingiverse.com/thing:2777861)
-- Youtube
+- Youtube https://youtu.be/Y8Oh4aj96gU
 - Manual [https://github.com/happythingsmaker/HappyKeys/blob/master/README.md](https://github.com/happythingsmaker/HappyKeys/blob/master/README.md)
 - Schematic [https://github.com/happythingsmaker/HappyKeys/blob/master/README.md](https://github.com/happythingsmaker/HappyKeys/blob/master/README.md)
 
