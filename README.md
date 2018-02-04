@@ -6,13 +6,11 @@ Youtube instruction : [Click here](https://youtu.be/Y8Oh4aj96gU)
 
 ------------------------------------ Parts ---------------------------------
 
-
+- Pre-Made Product [https://www.etsy.com/listing/591186001](https://www.etsy.com/listing/591186001)
 - Cherry Key Switch [http://amzn.to/2BEygaX](http://amzn.to/2BEygaX)
 - Attiny85 [http://amzn.to/2FvhOw6](http://amzn.to/2FvhOw6)
 - Keycap [http://amzn.to/2DO1ydg](http://amzn.to/2DO1ydg)
 - Micro USB cable [http://amzn.to/2Enrycm](http://amzn.to/2Enrycm)
-- Finished Product(soon) [https://www.etsy.com/people/xhjkunl8?ref=hdr\_user\_menu](https://www.etsy.com/people/xhjkunl8?ref=hdr_user_menu)
-- Material Kit(soon) [https://www.etsy.com/people/xhjkunl8?ref=hdr\_user\_menu](https://www.etsy.com/people/xhjkunl8?ref=hdr_user_menu)
 
 ------------------------------------ Tools ---------------------------------
 
