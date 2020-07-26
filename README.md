@@ -6,31 +6,20 @@ Youtube instruction : [Click here](https://youtu.be/Y8Oh4aj96gU)
 
 ------------------------------------ Parts ---------------------------------
 
-- Pre-Made Product [https://www.etsy.com/listing/591186001](https://www.etsy.com/listing/591186001)
-- Cherry Key Switch [http://amzn.to/2BEygaX](http://amzn.to/2BEygaX)
-- Attiny85 [http://amzn.to/2FvhOw6](http://amzn.to/2FvhOw6)
-- Keycap [http://amzn.to/2DO1ydg](http://amzn.to/2DO1ydg)
-- Micro USB cable [http://amzn.to/2Enrycm](http://amzn.to/2Enrycm)
-
------------------------------------- Tools ---------------------------------
-
-- Filament for 3d print \(PLA 1.75mm\) [http://amzn.to/2DhxPpo](http://amzn.to/2DhxPpo)
-- Hot melt glue gun [http://amzn.to/2CMf8cE](http://amzn.to/2CMf8cE)
-- 3D printer \(P802MA\) [http://amzn.to/2CWuVZE](http://amzn.to/2CWuVZE)
-- Soldering Iron Kit [http://amzn.to/2Gv8UA3](http://amzn.to/2Gv8UA3)
+- All the parts information : [https://eunchan.me/MACRO-KEY-d90c387cbe4245aa813cb100cc48b5e7](https://eunchan.me/MACRO-KEY-d90c387cbe4245aa813cb100cc48b5e7)
 
 ------------------------------------ Instruction --------------------------
 
 - 3D model file \(for 3d printer\) [https://www.thingiverse.com/thing:2777861](https://www.thingiverse.com/thing:2777861)
 - Youtube https://youtu.be/Y8Oh4aj96gU
-- Manual [https://github.com/happythingsmaker/HappyKeys/blob/master/README.md](https://github.com/happythingsmaker/HappyKeys/blob/master/README.md)
+- Manual [https://eunchan.me/MACRO-KEY-d90c387cbe4245aa813cb100cc48b5e7](https://eunchan.me/MACRO-KEY-d90c387cbe4245aa813cb100cc48b5e7)
 - Schematic [https://github.com/happythingsmaker/HappyKeys/blob/master/README.md](https://github.com/happythingsmaker/HappyKeys/blob/master/README.md)
 
 ------------------------------------ About Maker ---------------------------------
 
 - Instagram: [https://www.instagram.com/happythingsmaker/](https://www.instagram.com/happythingsmaker/)
 - Facebook: [https://www.facebook.com/happyThingsMaker/](https://www.facebook.com/happyThingsMaker/)
-- Blog : [http://happyThingsMaker.com/](http://happyThingsMaker.com/)
+- Blog : [http://eunchan.me/](http://eunchan.me/)
 
 ---
 
@@ -49,19 +38,12 @@ Youtube instruction : [Click here](https://youtu.be/Y8Oh4aj96gU)
 
 ### 2. Buying some parts
 
-* Finished Product [https://www.etsy.com/people/xhjkunl8?ref=hdr\_user\_menu](https://www.etsy.com/people/xhjkunl8?ref=hdr_user_menu)
-* Material Kit [https://www.etsy.com/people/xhjkunl8?ref=hdr\_user\_menu](https://www.etsy.com/people/xhjkunl8?ref=hdr_user_menu)
-* Cherry Key Switch [http://amzn.to/2BEygaX](http://amzn.to/2BEygaX)
-* Attiny85 [http://amzn.to/2FvhOw6](http://amzn.to/2FvhOw6)
-* Keycap [http://amzn.to/2DO1ydg](http://amzn.to/2DO1ydg)
-* Micro USB cable [http://amzn.to/2Enrycm](http://amzn.to/2Enrycm)
+- All the parts information : [https://eunchan.me/MACRO-KEY-d90c387cbe4245aa813cb100cc48b5e7](https://eunchan.me/MACRO-KEY-d90c387cbe4245aa813cb100cc48b5e7)
 
 ### 3. Preparing some tools
 
-* Soldering Iron Kit [http://amzn.to/2Gv8UA3](http://amzn.to/2Gv8UA3)
-* Filament for 3d print \(PLA 1.75mm\) [http://amzn.to/2DhxPpo](http://amzn.to/2DhxPpo)
-* Hot melt glue gun [http://amzn.to/2CMf8cE](http://amzn.to/2CMf8cE)
-* 3D printer \(P802MA\) [http://amzn.to/2CWuVZE](http://amzn.to/2CWuVZE)
+- All the parts information : [https://eunchan.me/MACRO-KEY-d90c387cbe4245aa813cb100cc48b5e7](https://eunchan.me/MACRO-KEY-d90c387cbe4245aa813cb100cc48b5e7)
+
 
 ### 4. Assembling
 
