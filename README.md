@@ -17,8 +17,6 @@ Youtube instruction : [Click here](https://youtu.be/Y8Oh4aj96gU)
 
 ------------------------------------ About Maker ---------------------------------
 
-- Instagram: [https://www.instagram.com/happythingsmaker/](https://www.instagram.com/happythingsmaker/)
-- Facebook: [https://www.facebook.com/happyThingsMaker/](https://www.facebook.com/happyThingsMaker/)
 - Blog : [http://eunchan.me/](http://eunchan.me/)
 
 ---
